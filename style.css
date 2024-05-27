@@ -1,0 +1,30 @@
+h1 {
+  text-align: center;
+  color: rgb(253, 210, 18);
+}
+
+.list-header {
+  border: solid 2px rgb(128, 128, 128);
+  background-color: rgb(253, 210, 18);
+  width: 450px;
+  padding-left: 25px;
+  margin: 15px;
+  border-radius: 5px;
+}
+.grocery-list {
+  display: inline-block;
+  border: solid 2px rgb(128, 128, 128);
+  background-color: rgba(248, 205, 16, 0.47);
+  height: 175px;
+  width: 175px;
+  padding: 15px;
+  margin: 15px;
+  border-radius: 5px;
+}
+
+.image {
+  width: 175px;
+  height: 175px;
+  border-radius: 5px;
+  display: inline-block;
+}
