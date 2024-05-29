@@ -1,2 +1,2 @@
 # Grocery-List
-block06
+block06 workshop
